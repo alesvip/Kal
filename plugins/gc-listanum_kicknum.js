@@ -1,4 +1,4 @@
-/*              Codigo Creado Por Bruno Sobrino
+/*              Codigo Creado Por Readz Aleizn
       (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
 */
 
