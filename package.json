@@ -17,16 +17,16 @@
     "eslintfix": "eslint --fix .",
     "postinstall": "node pipdeps.js"
   },
-  "homepage": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git"
+    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues"
+    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
