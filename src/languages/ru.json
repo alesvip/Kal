@@ -2659,11 +2659,11 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Официальные группы бота:*",
-                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
-                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
-                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
-                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
-                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
+                "*1.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "*2.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "*3.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "*4.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+                "*5.-* https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY"
             ],
             "texto2": "「  Привет мир 」",
             "texto3": "Лучший бот WhatsApp"
@@ -2684,14 +2684,14 @@
                 "*Электронная почта*",
                 "contacto@cafirexos.com",
                 "*WhatsApp-канал*",
-                "https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q",
+                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
                 "*Вопросы? (ТОЛЬКО О ХОСТИНГЕ):*",
-                "https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ"
+                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY"
             ],
             "texto2": "Лучший хостинг 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ УСТАНОВКА ОСНОВНОГО БОТА*\n> Обучение: https://youtu.be/eC9TfKICpcY\n> Официальная страница: https://boxmineworld.com\n> Панель управления: https://dash.boxmineworld.com/home\n> Доска: https://panel.boxmineworld.com\n> Поддержка: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ УСТАНОВКА ВТОРОСТЕПЕННОГО БОТА\n> Обучение: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ КОМАНДЫ УСТАНОВКИ*\n> Команды:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ АКТИВАЦИЯ В СЛУЧАЕ ОСТАНОВКИ В TERMUX ✔️\nВВЕДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 ПОЛУЧИТЕ ДРУГОЙ QR-КОД В TERMUX 👽\nВВЕДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ УСТАНОВКА ОСНОВНОГО БОТА*\n> Обучение: https://youtu.be/eC9Tf55DKICpcY\n> Официальная страница: https://boxmineworld.com\n> Панель управления: https://dash.boxmineworld.com/home\n> Доска: https://panel.boxmineworld.com\n> Поддержка: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ УСТАНОВКА ВТОРОСТЕПЕННОГО БОТА\n> Обучение: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ КОМАНДЫ УСТАНОВКИ*\n> Команды:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ АКТИВАЦИЯ В СЛУЧАЕ ОСТАНОВКИ В TERMUX ✔️\nВВЕДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 ПОЛУЧИТЕ ДРУГОЙ QR-КОД В TERMUX 👽\nВВЕДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
             "texto2": "Лучший бот WhatsApp"
         },
         "info_listprem": {
@@ -2731,7 +2731,7 @@
                 "▢ *Размер:*",
                 "▢ *Последнее обновление:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -3760,7 +3760,7 @@
             "texto11": [
                 "[ ⚠️ ] Предупреждение",
                 "[ ⚠️ ] Предупреждение",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY"
             ]
         },
         "participantsUpdate": {
